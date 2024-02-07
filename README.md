@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="www.naver.com" target="_blank"><img src="https://img.shields.io/badge/GODDONGHYUN-4E3188?style=&logo=aerlingus&logoColor=7a1fa2"/></a>
+<a href="www.naver.com" target="_blank"><img src="https://img.shields.io/badge/GODDONGHYUN-3DDC84?style=&logo=aerlingus&logoColor=white"/></a>
 
 <!--
 **GODDONGHYUN/GODDONGHYUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
