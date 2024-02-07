@@ -1,4 +1,4 @@
-###Hi there 👋
+<h3 align="center> Welcome GODDONGHYUN's GITHUB ! 😊</h3>
 <a href="www.naver.com" align="center" target="_blank"><img src="https://img.shields.io/badge/GODDONGHYUN-3DDC84?style=&logo=aiqfome&logoColor=white"/></a>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
