@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GODDONGHYUN-#4E3188?style=&logo=Aiqfome&logoColor=#7a1fa2"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GODDONGHYUN-#4E3188?style=&logo=aerlingus&logoColor=#7a1fa2"/></a>
 
 <!--
 **GODDONGHYUN/GODDONGHYUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
