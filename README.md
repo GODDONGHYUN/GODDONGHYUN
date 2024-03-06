@@ -1,8 +1,5 @@
-### Welcom GODDONGHYUN's GITHUB  😊
-<a href="www.naver.com" align="center" target="_blank"><img src="https://img.shields.io/badge/GODDONGHYUN-3DDC84?style=&logo=aiqfome&logoColor=white"/></a>
-<h3 >💡 My Most Used Languages 💡</h3>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-<h3 >💡 My Git Stats 💡</h3>
 
 
 <!--
