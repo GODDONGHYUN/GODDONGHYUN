@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=200&section=header&text=고동현&fontSize=30&fontColor=ffffff&animation=twinkling)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODDONGHYUN&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
