@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=200&section=header&text=고동현&fontSize=30&fontColor=00ced1)
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
 
 
 <!--
