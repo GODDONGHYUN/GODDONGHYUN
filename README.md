@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=200&section=header&text=고동현&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=200&section=header&text=고동현&fontSize=30&fontColor=ffffff&animation=fadeIn)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODDONGHYUN&show_icons=true&theme=transparent)
 
 
