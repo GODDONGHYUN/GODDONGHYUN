@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=고동현&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#_1A1E3F&height=300&section=header&text=고동현&fontSize=90)
 
 
 
